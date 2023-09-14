@@ -14,8 +14,8 @@ We use the 'churn.csv' dataset for this project. It contains information about c
 Link to dataset:https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ## Data Preprocessing
-- We start by dropping unwanted features like 'customerID.'
-- Handle missing values in the 'TotalCharges' column.
+- We start by dropping unwanted features.
+- Handle missing values.
 - Convert data types to the appropriate format.
 - Encode categorical variables into numeric form.
 - Scale numerical features using Min-Max scaling.
