@@ -1,5 +1,6 @@
 # Customer-churn-prediction
 
+
 ## Overview
 This project is focused on predicting customer churn using a neural network-based machine learning model. Customer churn, also known as customer attrition, is a critical business metric, and predicting it can help businesses take proactive measures to retain their customers.
 In this project, we:
@@ -7,8 +8,10 @@ In this project, we:
 - Preprocess the data by handling missing values and encoding categorical variables.
 - Build a neural network model using TensorFlow and Keras.
 - Train and evaluate the model's performance for churn prediction.
-- ## Dataset
+
+## Dataset
 We use the 'churn.csv' dataset for this project. It contains information about customers, their demographics, and various features that may influence their decision to churn.
+Link to dataset:https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ## Data Preprocessing
 - We start by dropping unwanted features like 'customerID.'
